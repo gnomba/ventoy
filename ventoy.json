@@ -187,6 +187,14 @@
         {
             "dir": "/windows",
             "class": "windows"
+        },
+        {
+            "key": "netboot.xyz-",
+            "class": "netboot.xyz"
+        },
+        {
+            "dir": "/netboot.xyz",
+            "class": "netboot.xyz"
         }
     ],
     "menu_class_legacy":[
@@ -341,6 +349,14 @@
         {
             "dir": "/windows",
             "class": "windows"
+        },
+        {
+            "key": "netboot.xyz-",
+            "class": "netboot.xyz"
+        },
+        {
+            "dir": "/netboot.xyz",
+            "class": "netboot.xyz"
         }
     ],
     "menu_class_uefi":[
@@ -495,6 +511,14 @@
         {
             "dir": "/windows",
             "class": "windows"
+        },
+        {
+            "key": "netboot.xyz-",
+            "class": "netboot.xyz"
+        },
+        {
+            "dir": "/netboot.xyz",
+            "class": "netboot.xyz"
         }
     ],
     "auto_memdisk":[
