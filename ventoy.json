@@ -107,6 +107,14 @@
         {
             "dir": "/rescue",
             "class": "systemrescue"
+        },
+        {
+            "key": "Alma",
+            "class": "almalinux"
+        },
+        {
+            "dir": "/almalinux",
+            "class": "almalinux"
         }
     ],
     "menu_class_legacy":[
@@ -181,6 +189,14 @@
         {
             "dir": "/rescue",
             "class": "systemrescue"
+        },
+        {
+            "key": "Alma",
+            "class": "almalinux"
+        },
+        {
+            "dir": "/almalinux",
+            "class": "almalinux"
         }
     ],
     "menu_class_uefi":[
@@ -255,6 +271,14 @@
         {
             "dir": "/rescue",
             "class": "systemrescue"
+        },
+        {
+            "key": "Alma",
+            "class": "almalinux"
+        },
+        {
+            "dir": "/almalinux",
+            "class": "almalinux"
         }
     ],
     "auto_memdisk":[
