@@ -147,6 +147,46 @@
         {
             "dir": "/rockylinux",
             "class": "rockylinux"
+        },
+        {
+            "key": "tails-",
+            "class": "tails"
+        },
+        {
+            "dir": "/tails",
+            "class": "tails"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "re_",
+            "class": "systemback"
+        },
+        {
+            "dir": "/systemback",
+            "class": "systemback"
+        },
+        {
+            "key": "uncom",
+            "class": "uncom"
+        },
+        {
+            "dir": "/uncom",
+            "class": "uncom"
+        },
+        {
+            "key": "ru-ru_windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/windows",
+            "class": "windows"
         }
     ],
     "menu_class_legacy":[
@@ -261,6 +301,46 @@
         {
             "dir": "/rockylinux",
             "class": "rockylinux"
+        },
+        {
+            "key": "tails-",
+            "class": "tails"
+        },
+        {
+            "dir": "/tails",
+            "class": "tails"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "re_",
+            "class": "systemback"
+        },
+        {
+            "dir": "/systemback",
+            "class": "systemback"
+        },
+        {
+            "key": "uncom",
+            "class": "uncom"
+        },
+        {
+            "dir": "/uncom",
+            "class": "uncom"
+        },
+        {
+            "key": "ru-ru_windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/windows",
+            "class": "windows"
         }
     ],
     "menu_class_uefi":[
@@ -375,6 +455,46 @@
         {
             "dir": "/rockylinux",
             "class": "rockylinux"
+        },
+        {
+            "key": "tails-",
+            "class": "tails"
+        },
+        {
+            "dir": "/tails",
+            "class": "tails"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "re_",
+            "class": "systemback"
+        },
+        {
+            "dir": "/systemback",
+            "class": "systemback"
+        },
+        {
+            "key": "uncom",
+            "class": "uncom"
+        },
+        {
+            "dir": "/uncom",
+            "class": "uncom"
+        },
+        {
+            "key": "ru-ru_windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/windows",
+            "class": "windows"
         }
     ],
     "auto_memdisk":[
