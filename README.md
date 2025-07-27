@@ -1,1 +1,1 @@
-# ventoy
+# ventoy-just-black theme 
