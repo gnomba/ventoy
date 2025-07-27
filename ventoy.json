@@ -115,6 +115,38 @@
         {
             "dir": "/almalinux",
             "class": "almalinux"
+        },
+        {
+            "key": "Cent",
+            "class": "centos"
+        },
+        {
+            "dir": "/centos",
+            "class": "centos"
+        },
+        {
+            "key": "issdfut",
+            "class": "intel"
+        },
+        {
+            "dir": "/intel",
+            "class": "intel"
+        },
+        {
+            "key": "neon-",
+            "class": "kdeneon"
+        },
+        {
+            "dir": "/kde",
+            "class": "kdeneon"
+        },
+        {
+            "key": "Rocky-",
+            "class": "rockylinux"
+        },
+        {
+            "dir": "/rockylinux",
+            "class": "rockylinux"
         }
     ],
     "menu_class_legacy":[
@@ -197,6 +229,38 @@
         {
             "dir": "/almalinux",
             "class": "almalinux"
+        },
+        {
+            "key": "Cent",
+            "class": "centos"
+        },
+        {
+            "dir": "/centos",
+            "class": "centos"
+        },
+        {
+            "key": "issdfut",
+            "class": "intel"
+        },
+        {
+            "dir": "/intel",
+            "class": "intel"
+        },
+        {
+            "key": "neon-",
+            "class": "kdeneon"
+        },
+        {
+            "dir": "/kde",
+            "class": "kdeneon"
+        },
+        {
+            "key": "Rocky-",
+            "class": "rockylinux"
+        },
+        {
+            "dir": "/rockylinux",
+            "class": "rockylinux"
         }
     ],
     "menu_class_uefi":[
@@ -279,6 +343,38 @@
         {
             "dir": "/almalinux",
             "class": "almalinux"
+        },
+        {
+            "key": "Cent",
+            "class": "centos"
+        },
+        {
+            "dir": "/centos",
+            "class": "centos"
+        },
+        {
+            "key": "issdfut",
+            "class": "intel"
+        },
+        {
+            "dir": "/intel",
+            "class": "intel"
+        },
+        {
+            "key": "neon-",
+            "class": "kdeneon"
+        },
+        {
+            "dir": "/kde",
+            "class": "kdeneon"
+        },
+        {
+            "key": "Rocky-",
+            "class": "rockylinux"
+        },
+        {
+            "dir": "/rockylinux",
+            "class": "rockylinux"
         }
     ],
     "auto_memdisk":[
