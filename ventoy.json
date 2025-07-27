@@ -1,0 +1,272 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_LINUX_REMOUNT": "1" }
+    ],
+    "control_legacy":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_LINUX_REMOUNT": "1" }
+    ],
+    "control_uefi":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_LINUX_REMOUNT": "1" }
+    ],
+    "theme":{
+        "file":[
+            "/ventoy/ventoy-just-black/theme.txt",
+            "/ventoy/ventoy-just-black/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1
+    },
+    "theme_legacy":{
+        "file":[
+            "/ventoy/ventoy-just-black/theme.txt",
+            "/ventoy/ventoy-just-black/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1
+    },
+    "theme_uefi":{
+        "file":[
+            "/ventoy/ventoy-just-black/theme.txt",
+            "/ventoy/ventoy-just-black/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1
+    },
+    "menu_class":[
+        {
+            "key": "alt-",
+            "class": "altlinux"
+        },
+        {
+            "dir": "/alt",
+            "class": "altlinux"
+        },
+        {
+            "key": "alce-",
+            "class": "astralinux"
+        },
+        {
+            "dir": "/astra",
+            "class": "astralinux"
+        },
+        {
+            "key": "drweb-",
+            "class": "drweb"
+        },
+        {
+            "dir": "/drweb",
+            "class": "drweb"
+        },
+        {
+            "key": "krd",
+            "class": "kaspersky"
+        },
+        {
+            "dir": "/kaspersky",
+            "class": "kaspersky"
+        },
+        {
+            "key": "mt86",
+            "class": "memtest"
+        },
+        {
+            "dir": "/memtest",
+            "class": "memtest"
+        },
+        {
+            "key": "Redos",
+            "class": "redos"
+        },
+        {
+            "dir": "/redos",
+            "class": "redos"
+        },
+        {
+            "key": "ROSA",
+            "class": "rosalinux"
+        },
+        {
+            "dir": "/rosa",
+            "class": "rosa"
+        },
+        {
+            "key": "slinux",
+            "class": "simplylinux"
+        },
+        {
+            "dir": "/simply",
+            "class": "simplylinux"
+        },
+        {
+            "key": "systemrescue",
+            "class": "systemrescue"
+        },
+        {
+            "dir": "/rescue",
+            "class": "systemrescue"
+        }
+    ],
+    "menu_class_legacy":[
+        {
+            "key": "alt-",
+            "class": "altlinux"
+        },
+        {
+            "dir": "/alt",
+            "class": "altlinux"
+        },
+        {
+            "key": "alce-",
+            "class": "astralinux"
+        },
+        {
+            "dir": "/astra",
+            "class": "astralinux"
+        },
+        {
+            "key": "drweb-",
+            "class": "drweb"
+        },
+        {
+            "dir": "/drweb",
+            "class": "drweb"
+        },
+        {
+            "key": "krd",
+            "class": "kaspersky"
+        },
+        {
+            "dir": "/kaspersky",
+            "class": "kaspersky"
+        },
+        {
+            "key": "mt86",
+            "class": "memtest"
+        },
+        {
+            "dir": "/memtest",
+            "class": "memtest"
+        },
+        {
+            "key": "Redos",
+            "class": "redos"
+        },
+        {
+            "dir": "/redos",
+            "class": "redos"
+        },
+        {
+            "key": "ROSA",
+            "class": "rosalinux"
+        },
+        {
+            "dir": "/rosa",
+            "class": "rosa"
+        },
+        {
+            "key": "slinux",
+            "class": "simplylinux"
+        },
+        {
+            "dir": "/simply",
+            "class": "simplylinux"
+        },
+        {
+            "key": "systemrescue",
+            "class": "systemrescue"
+        },
+        {
+            "dir": "/rescue",
+            "class": "systemrescue"
+        }
+    ],
+    "menu_class_uefi":[
+        {
+            "key": "alt-",
+            "class": "altlinux"
+        },
+        {
+            "dir": "/alt",
+            "class": "altlinux"
+        },
+        {
+            "key": "alce-",
+            "class": "astralinux"
+        },
+        {
+            "dir": "/astra",
+            "class": "astralinux"
+        },
+        {
+            "key": "drweb-",
+            "class": "drweb"
+        },
+        {
+            "dir": "/drweb",
+            "class": "drweb"
+        },
+        {
+            "key": "krd",
+            "class": "kaspersky"
+        },
+        {
+            "dir": "/kaspersky",
+            "class": "kaspersky"
+        },
+        {
+            "key": "mt86",
+            "class": "memtest"
+        },
+        {
+            "dir": "/memtest",
+            "class": "memtest"
+        },
+        {
+            "key": "Redos",
+            "class": "redos"
+        },
+        {
+            "dir": "/redos",
+            "class": "redos"
+        },
+        {
+            "key": "ROSA",
+            "class": "rosalinux"
+        },
+        {
+            "dir": "/rosa",
+            "class": "rosa"
+        },
+        {
+            "key": "slinux",
+            "class": "simplylinux"
+        },
+        {
+            "dir": "/simply",
+            "class": "simplylinux"
+        },
+        {
+            "key": "systemrescue",
+            "class": "systemrescue"
+        },
+        {
+            "dir": "/rescue",
+            "class": "systemrescue"
+        }
+    ],
+    "auto_memdisk":[
+        "/memtest/mt86plus_7.20_64.grub.iso",
+        "/memtest/mt86plus_nightly_1b5065b_2025-07-08_64.grub.iso"
+    ],
+    "auto_memdisk_legacy":[
+        "/memtest/mt86plus_7.20_64.grub.iso",
+        "/memtest/mt86plus_nightly_1b5065b_2025-07-08_64.grub.iso"
+    ],
+    "auto_memdisk_uefi":[
+        "/memtest/mt86plus_7.20_64.grub.iso",
+        "/memtest/mt86plus_nightly_1b5065b_2025-07-08_64.grub.iso"
+    ]
+}
