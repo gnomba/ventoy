@@ -90,7 +90,7 @@
         },
         {
             "dir": "/rosa",
-            "class": "rosa"
+            "class": "rosalinux"
         },
         {
             "key": "slinux",
@@ -189,7 +189,7 @@
             "class": "windows"
         },
         {
-            "key": "netboot.xyz-",
+            "key": "netboot.xyz",
             "class": "netboot.xyz"
         },
         {
@@ -252,7 +252,7 @@
         },
         {
             "dir": "/rosa",
-            "class": "rosa"
+            "class": "rosalinux"
         },
         {
             "key": "slinux",
@@ -351,7 +351,7 @@
             "class": "windows"
         },
         {
-            "key": "netboot.xyz-",
+            "key": "netboot.xyz",
             "class": "netboot.xyz"
         },
         {
@@ -414,7 +414,7 @@
         },
         {
             "dir": "/rosa",
-            "class": "rosa"
+            "class": "rosalinux"
         },
         {
             "key": "slinux",
@@ -513,7 +513,7 @@
             "class": "windows"
         },
         {
-            "key": "netboot.xyz-",
+            "key": "netboot.xyz",
             "class": "netboot.xyz"
         },
         {
