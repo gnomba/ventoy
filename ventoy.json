@@ -81,6 +81,10 @@
             "class": "redos"
         },
         {
+            "key": "redos",
+            "class": "redos"
+        },
+        {
             "dir": "/redos",
             "class": "redos"
         },
@@ -243,6 +247,10 @@
             "class": "redos"
         },
         {
+            "key": "redos",
+            "class": "redos"
+        },
+        {
             "dir": "/redos",
             "class": "redos"
         },
@@ -402,6 +410,10 @@
         },
         {
             "key": "Redos",
+            "class": "redos"
+        },
+        {
+            "key": "redos",
             "class": "redos"
         },
         {
